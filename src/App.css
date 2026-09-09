@@ -399,7 +399,7 @@
   display: inline-block;
   margin-top: 28px;
   padding: 12px 18px;
-  background: #52796f;
+  background: linear-gradient(orange, darkorange);
   color: white;
   text-decoration: none;
   border-radius: 7px;
