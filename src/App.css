@@ -407,7 +407,7 @@
 }
 
 .backButton:hover {
-  background: #3f625b;
+  background: darkcyan;
 }
 
 .loadingState {
